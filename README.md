@@ -1,35 +1,43 @@
-<p align="center"><img src="https://github.com/SSRobotic/humanoid-robot-hub/raw/main/docs/assets/banner.svg" alt="SSRobotic — Humanoid Robot Hub" width="100%"></p>
+<p align="center"><img src="https://github.com/SSRobotic/humanoid-robot-hub/raw/main/docs/assets/ssrobotics-logo.jpg" alt="SSRobotics — original logo by SSRobotic" width="240"></p>
 
-<h1 align="center">SSRobotic</h1>
-<p align="center"><b>Robotics Engineer &amp; Open-source Curator</b><br>Humanoid systems · Robot models · ROS 2 · Simulation · Robot learning</p>
+# 👋 Hi, I'm SSRobotic
 
-<p align="center"><a href="https://ssrobotic.github.io/humanoid-robot-hub/">Explore my Robotics Hub</a> · <a href="https://github.com/SSRobotic/humanoid-robot-hub">Browse the repository</a> · <a href="https://github.com/SSRobotic/humanoid-robot-hub/issues/new/choose">Suggest a resource</a></p>
+<p align="center"><b>Robotics Engineer &amp; Open-source Curator</b><br>🦾 Humanoid systems · 📡 ROS 2 · 🌐 Simulation · 🧠 Robot learning</p>
 
-## What I do
+<p align="center"><a href="https://github.com/SSRobotic/humanoid-robot-hub">🤖 Humanoid Robot Hub</a> · <a href="https://ssrobotic.github.io/humanoid-robot-hub/">🔎 Search resources</a> · <a href="https://github.com/SSRobotic?tab=repositories">🗂️ All repositories</a></p>
 
-I bring robotics resources together and organize them around practical engineering tasks: understanding a model, finding a control interface, setting up simulation and exploring robot learning.
+## 🛠️ What I build & curate
 
-My **Humanoid Robot Hub** consolidates my existing public collections into one library and connects them to original projects from the robotics community. I curate the resources, structure the documentation and maintain the discovery experience, while crediting the creators of the original SDKs, models and frameworks.
+I bring robotics resources together and organize them around engineering tasks: understanding a model, choosing a control interface, setting up simulation and exploring robot learning. **SSRobotics** is my robotics identity, with an original logo I designed.
 
-ผมทำงานด้าน Robotics และรวบรวมแหล่งข้อมูลเพื่อช่วยให้การค้นหาและทดลองพัฒนาหุ่นยนต์ง่ายขึ้น โดยจัดหมวดหมู่โค้ด โมเดล ระบบควบคุม และ Simulation ไว้ใน Hub เดียว พร้อมให้เครดิตเจ้าของผลงานต้นฉบับ
+ผมทำงานด้าน Robotics และรวบรวมแหล่งข้อมูลเพื่อช่วยให้การค้นหา ศึกษา และทดลองพัฒนาหุ่นยนต์ง่ายขึ้น โดยแยกเป็น repo ตามหมวด พร้อมเชื่อมกลับมายัง Hub กลางและให้เครดิตผู้พัฒนาต้นฉบับ
 
-## Explore my collections
+## 🤖 My open robotics ecosystem
 
-| Focus | Explore |
+**[Humanoid Robot Hub](https://github.com/SSRobotic/humanoid-robot-hub)** connects **12 categories**, **16 connected repositories** (8 resource repositories + 8 platform code collections) and **47 curated resources**.
+
+| Explore | Repository |
 | --- | --- |
-| **Humanoid models & visualization** | [DOBOT Atom URDF](https://github.com/SSRobotic/humanoid-robot-hub/tree/main/collections/dobot/atom-urdf) · [Unitree models](https://github.com/SSRobotic/humanoid-robot-hub/tree/main/collections/unitree/ros/robots) |
-| **SDKs & ROS 2 integration** | [Atom SDK](https://github.com/SSRobotic/humanoid-robot-hub/tree/main/collections/dobot/atom-sdk) · [Atom ROS 2](https://github.com/SSRobotic/humanoid-robot-hub/tree/main/collections/dobot/atom-ros2) · [Unitree ROS 2](https://github.com/SSRobotic/humanoid-robot-hub/tree/main/collections/unitree/ros2) |
-| **Simulation & robot learning** | [Curated project directory](https://ssrobotic.github.io/humanoid-robot-hub/#directory) |
-| **Supporting manipulation tools** | [DOBOT Vision](https://github.com/SSRobotic/humanoid-robot-hub/tree/main/collections/dobot/ros2-vision) · [Magician ROS](https://github.com/SSRobotic/humanoid-robot-hub/tree/main/collections/dobot/magician-ros) |
+| 🦾 Models & URDF | [humanoid-models](https://github.com/SSRobotic/humanoid-models) |
+| 🌐 Simulation | [humanoid-simulation](https://github.com/SSRobotic/humanoid-simulation) |
+| 🧠 Robot Learning | [humanoid-robot-learning](https://github.com/SSRobotic/humanoid-robot-learning) |
+| ⚙️ Whole-body Control | [humanoid-whole-body-control](https://github.com/SSRobotic/humanoid-whole-body-control) |
+| 👁️ Vision & 3D Perception | [humanoid-vision](https://github.com/SSRobotic/humanoid-vision) |
+| 🤏 Manipulation & Planning | [humanoid-manipulation](https://github.com/SSRobotic/humanoid-manipulation) |
+| 🎮 Teleoperation | [humanoid-teleoperation](https://github.com/SSRobotic/humanoid-teleoperation) |
+| 💾 Datasets & Demonstrations | [humanoid-datasets](https://github.com/SSRobotic/humanoid-datasets) |
+| 💬 Vision-Language-Action | [humanoid-vla](https://github.com/SSRobotic/humanoid-robot-hub/tree/main/directories/humanoid-vla) |
+| 🔌 Hardware & SDKs | [humanoid-hardware-sdks](https://github.com/SSRobotic/humanoid-robot-hub/tree/main/directories/humanoid-hardware-sdks) |
+| 📡 ROS & Integration | [humanoid-ros2](https://github.com/SSRobotic/humanoid-robot-hub/tree/main/directories/humanoid-ros2) |
+| 📚 Research & Benchmarks | [humanoid-research](https://github.com/SSRobotic/humanoid-robot-hub/tree/main/directories/humanoid-research) |
 
-## Featured project
 
-### [Humanoid Robot Hub](https://github.com/SSRobotic/humanoid-robot-hub)
+## 🔌 Platform collections
 
-**20 curated resources · 8 consolidated code collections · Thai / English search**
+[📡 Unitree ROS 2](https://github.com/SSRobotic/unitree-ros2) · [🦾 Unitree models](https://github.com/SSRobotic/unitree-robot-models) · [🦾 Atom models](https://github.com/SSRobotic/dobot-atom-models) · [🔌 Atom SDK](https://github.com/SSRobotic/dobot-atom-sdk) · [📡 Atom ROS 2](https://github.com/SSRobotic/dobot-atom-ros2) · [👁️ DOBOT vision](https://github.com/SSRobotic/dobot-vision)
 
-A clear entry point for exploring humanoid robotics, from source code and robot descriptions to simulation and learning tools. Every collection includes source attribution and provenance.
+## 🙌 Follow along & contribute
 
----
+Interested in humanoid robotics? **Follow this profile** for future resources and project updates, and **[star the Hub](https://github.com/SSRobotic/humanoid-robot-hub)** to bookmark the collection. Share an original resource or a correction through [Hub Issues](https://github.com/SSRobotic/humanoid-robot-hub/issues/new/choose).
 
-Open robotics grows through shared knowledge. Explore the Hub, credit the original creators and contribute a useful resource.
+Original SDKs, robot models and research frameworks remain credited to their creators. My contribution is the resource curation, organization, engineering guides and discovery experience.
