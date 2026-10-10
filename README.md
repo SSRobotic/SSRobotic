@@ -1,10 +1,21 @@
 <p align="center"><img src="https://github.com/SSRobotic/humanoid-robot-hub/raw/main/docs/assets/ssrobotics-logo.jpg" alt="SSRobotics — original logo by SSRobotic" width="240"></p>
 
-# 👋 Hi, I'm SSRobotic
+<h1 align="center">👋 Hi, I'm SSRobotic</h1>
 
-<p align="center"><b>Robotics Engineer &amp; Open-source Curator</b><br>🦾 Humanoid systems · 📡 ROS 2 · 🌐 Simulation · 🧠 Robot learning</p>
+<p align="center"><b>Robotics Engineer &amp; Open-source Curator</b><br>🦾 Humanoid systems · 🟢 Isaac Sim / Isaac Lab · 🧮 Robotics algorithms · 📡 ROS 2</p>
+
+<p align="center">
+  <a href="https://ssrobotic.github.io/humanoid-robot-hub/"><img src="https://img.shields.io/badge/Resources-60-f28c28?style=flat-square" alt="60 curated resources"></a>
+  <a href="https://github.com/SSRobotic/humanoid-robot-hub#-category-directories"><img src="https://img.shields.io/badge/Categories-14-555555?style=flat-square" alt="14 categories"></a>
+  <a href="https://github.com/SSRobotic/humanoid-robot-hub"><img src="https://img.shields.io/badge/Linked_repos-22-555555?style=flat-square" alt="22 connected repositories"></a>
+  <a href="https://ssrobotic.github.io/humanoid-robot-hub/"><img src="https://img.shields.io/badge/Language-TH_%2F_EN-555555?style=flat-square" alt="Thai and English"></a>
+  <a href="https://github.com/SSRobotic/humanoid-robot-hub/blob/main/CREDITS.md"><img src="https://img.shields.io/badge/Original_sources-Credited-555555?style=flat-square" alt="Original authors credited"></a>
+</p>
+
 
 <p align="center"><a href="https://github.com/SSRobotic/humanoid-robot-hub">🤖 Humanoid Robot Hub</a> · <a href="https://ssrobotic.github.io/humanoid-robot-hub/">🔎 Search resources</a> · <a href="https://github.com/SSRobotic?tab=repositories">🗂️ All repositories</a></p>
+
+---
 
 ## 🛠️ What I build & curate
 
@@ -12,9 +23,16 @@ I bring robotics resources together and organize them around engineering tasks: 
 
 ผมทำงานด้าน Robotics และรวบรวมแหล่งข้อมูลเพื่อช่วยให้การค้นหา ศึกษา และทดลองพัฒนาหุ่นยนต์ง่ายขึ้น โดยแยกเป็น repo ตามหมวด พร้อมเชื่อมกลับมายัง Hub กลางและให้เครดิตผู้พัฒนาต้นฉบับ
 
+## ✨ Explore my latest directories
+
+| 🟢 Simulation & learning | 🧮 Algorithms & control |
+| --- | --- |
+| **[Isaac Sim / Isaac Lab](https://github.com/SSRobotic/humanoid-isaac-sim)** | **[Robotics Algorithms](https://github.com/SSRobotic/humanoid-algorithms)** |
+| Scenes, assets, ROS integration and policy evaluation | IK, inverse dynamics, MPC / DDP, motion planning and RL |
+
 ## 🤖 My open robotics ecosystem
 
-**[Humanoid Robot Hub](https://github.com/SSRobotic/humanoid-robot-hub)** connects **12 category repositories**, **8 platform code collections** and **47 curated resources**.
+**[Humanoid Robot Hub](https://github.com/SSRobotic/humanoid-robot-hub)** connects **14 category repositories**, **8 platform code collections** and **60 curated resources**.
 
 | Explore | Repository |
 | --- | --- |
@@ -30,6 +48,8 @@ I bring robotics resources together and organize them around engineering tasks: 
 | 🔌 Hardware & SDKs | [humanoid-hardware-sdks](https://github.com/SSRobotic/humanoid-hardware-sdks) |
 | 📡 ROS & Integration | [humanoid-ros2](https://github.com/SSRobotic/humanoid-ros2) |
 | 📚 Research & Benchmarks | [humanoid-research](https://github.com/SSRobotic/humanoid-research) |
+| 🟢 Isaac Sim & Isaac Lab | [humanoid-isaac-sim](https://github.com/SSRobotic/humanoid-isaac-sim) |
+| 🧮 Robotics Algorithms | [humanoid-algorithms](https://github.com/SSRobotic/humanoid-algorithms) |
 
 
 ## 🔌 Platform collections
