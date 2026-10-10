@@ -23,12 +23,12 @@ I bring robotics resources together and organize them around engineering tasks: 
 
 ผมทำงานด้าน Robotics และรวบรวมแหล่งข้อมูลเพื่อช่วยให้การค้นหา ศึกษา และทดลองพัฒนาหุ่นยนต์ง่ายขึ้น โดยแยกเป็น repo ตามหมวด พร้อมเชื่อมกลับมายัง Hub กลางและให้เครดิตผู้พัฒนาต้นฉบับ
 
-## ✨ Explore my latest directories
+## ✨ Explore my source collections
 
 | 🟢 Simulation & learning | 🧮 Algorithms & control |
 | --- | --- |
 | **[Isaac Sim / Isaac Lab](https://github.com/SSRobotic/humanoid-isaac-sim)** | **[Robotics Algorithms](https://github.com/SSRobotic/humanoid-algorithms)** |
-| Scenes, assets, ROS integration and policy evaluation | IK, inverse dynamics, MPC / DDP, motion planning and RL |
+| 11,522 tracked Isaac Sim / Isaac Lab files (1,147 upstream LFS asset pointers) + humanoid launcher | 898 imported Pink / Crocoddyl files + CPU IK, MPC and RRT examples |
 
 ## 🤖 My open robotics ecosystem
 
@@ -52,6 +52,8 @@ I bring robotics resources together and organize them around engineering tasks: 
 | 🧮 Robotics Algorithms | [humanoid-algorithms](https://github.com/SSRobotic/humanoid-algorithms) |
 
 
+📦 The 14 category repositories contain **14,802 tracked upstream files** (13,655 full files and 1,147 upstream LFS asset pointers) with pinned upstream commits and retained licenses. [Browse the source map](https://github.com/SSRobotic/humanoid-robot-hub/blob/main/source-collections.json). Original SSRobotics CPU examples are in [humanoid-algorithms](https://github.com/SSRobotic/humanoid-algorithms/tree/main/examples).
+
 ## 🔌 Platform collections
 
 [📡 Unitree ROS 2](https://github.com/SSRobotic/unitree-ros2) · [🦾 Unitree models](https://github.com/SSRobotic/unitree-robot-models) · [🦾 Atom models](https://github.com/SSRobotic/dobot-atom-models) · [🔌 Atom SDK](https://github.com/SSRobotic/dobot-atom-sdk) · [📡 Atom ROS 2](https://github.com/SSRobotic/dobot-atom-ros2) · [👁️ DOBOT vision](https://github.com/SSRobotic/dobot-vision)
@@ -60,4 +62,4 @@ I bring robotics resources together and organize them around engineering tasks: 
 
 Interested in humanoid robotics? **Follow this profile** for future resources and project updates, and **[star the Hub](https://github.com/SSRobotic/humanoid-robot-hub)** to bookmark the collection. Share an original resource or a correction through [Hub Issues](https://github.com/SSRobotic/humanoid-robot-hub/issues/new/choose).
 
-Original SDKs, robot models and research frameworks remain credited to their creators. My contribution is the resource curation, organization, engineering guides and discovery experience.
+Original SDKs, robot models and research frameworks remain credited to their creators. My contribution is the resource curation, organization, engineering guides, educational example code and discovery experience.
