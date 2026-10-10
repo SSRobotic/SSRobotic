@@ -14,7 +14,7 @@ I bring robotics resources together and organize them around engineering tasks: 
 
 ## 🤖 My open robotics ecosystem
 
-**[Humanoid Robot Hub](https://github.com/SSRobotic/humanoid-robot-hub)** connects **12 categories**, **16 connected repositories** (8 resource repositories + 8 platform code collections) and **47 curated resources**.
+**[Humanoid Robot Hub](https://github.com/SSRobotic/humanoid-robot-hub)** connects **12 category repositories**, **8 platform code collections** and **47 curated resources**.
 
 | Explore | Repository |
 | --- | --- |
@@ -26,10 +26,10 @@ I bring robotics resources together and organize them around engineering tasks: 
 | 🤏 Manipulation & Planning | [humanoid-manipulation](https://github.com/SSRobotic/humanoid-manipulation) |
 | 🎮 Teleoperation | [humanoid-teleoperation](https://github.com/SSRobotic/humanoid-teleoperation) |
 | 💾 Datasets & Demonstrations | [humanoid-datasets](https://github.com/SSRobotic/humanoid-datasets) |
-| 💬 Vision-Language-Action | [humanoid-vla](https://github.com/SSRobotic/humanoid-robot-hub/tree/main/directories/humanoid-vla) |
-| 🔌 Hardware & SDKs | [humanoid-hardware-sdks](https://github.com/SSRobotic/humanoid-robot-hub/tree/main/directories/humanoid-hardware-sdks) |
-| 📡 ROS & Integration | [humanoid-ros2](https://github.com/SSRobotic/humanoid-robot-hub/tree/main/directories/humanoid-ros2) |
-| 📚 Research & Benchmarks | [humanoid-research](https://github.com/SSRobotic/humanoid-robot-hub/tree/main/directories/humanoid-research) |
+| 💬 Vision-Language-Action | [humanoid-vla](https://github.com/SSRobotic/humanoid-vla) |
+| 🔌 Hardware & SDKs | [humanoid-hardware-sdks](https://github.com/SSRobotic/humanoid-hardware-sdks) |
+| 📡 ROS & Integration | [humanoid-ros2](https://github.com/SSRobotic/humanoid-ros2) |
+| 📚 Research & Benchmarks | [humanoid-research](https://github.com/SSRobotic/humanoid-research) |
 
 
 ## 🔌 Platform collections
