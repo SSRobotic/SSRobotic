@@ -1,6 +1,5 @@
 <p align="center"><img src="https://github.com/SSRobotic/humanoid-robot-hub/raw/main/docs/assets/ssrobotics-logo.jpg" alt="SSRobotics — original logo by SSRobotic" width="240"></p>
 
-<h1 align="center">👋 Hi, I'm SSRobotic</h1>
 
 <p align="center"><b>Robotics Engineer &amp; Open-source Curator</b><br>🦾 Humanoid systems · 🟢 Isaac Sim / Isaac Lab · 🧮 Robotics algorithms · 📡 ROS 2</p>
 
